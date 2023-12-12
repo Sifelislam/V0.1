@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#global{
+    border: 1px solid #666;
+    margin: 0;
+    padding: 0;
+}
+#title{
+    border: 1px dotted #666;
+    background: rgb(254, 254, 254);
+    height: 50px;
+    margin: 5px;padding: 5px;
+}
+#contenu{
+    border: 1px solid #666;
+    min-height:630px;
+}
+#layer-list{
+    border: 1px solid #666;
+    background: rgb(254, 254, 254);
+    width: 150px;
+    min-height: 630px;
+    float: left;
+
+}
+.layer-item {
+    margin-bottom: 8px;
+    }
+#js-map{
+    border: 1px solid #66666600;
+    width: 1300px;
+    height: 630px;
+    overflow: auto;
+}
